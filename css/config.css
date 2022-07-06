@@ -1,0 +1,16 @@
+:root {
+    /* colors */
+    --primary-main: #1f2937;
+    --primary-light: #3882f6;
+    --secondary-main: #f9faf8;
+    --secondary-dark: #e5e7eb;
+
+    /* fonts */
+    --primary-font: Roboto, Verdana, sans-serif;
+    --extra-large-font: 48px;
+    --large-font: 36px;
+    --medium-font: 24px;
+    --small-font: 18px;
+    --extra-small-font: 14px;
+}
+
